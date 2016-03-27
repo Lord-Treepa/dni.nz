@@ -1,2 +1,2 @@
-# r11blog
-R11 DNI Blog
+# dni.nz
+dni.nz Website
