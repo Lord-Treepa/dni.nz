@@ -1,5 +1,5 @@
                 <div class="post-preview">
-                    <a href="post.html">
+                    <a href="posts/post.html">
                         <h2 class="post-title">
                             New Room 11 Blog
                         </h2>
@@ -7,5 +7,5 @@
                             This article is about the new Room 11 Blog.
                         </h3>
                     </a>
-                    <p class="post-meta">Posted by <a href="#">Blog Team</a> on March 3, 2016</p>
+                    <p class="post-meta">Posted by <a href="blogteam.html">Blog Team</a> on March 3, 2016</p>
                 </div>
